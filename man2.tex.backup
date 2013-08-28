@@ -7,8 +7,6 @@
 \usepackage{color,graphicx}
 \usepackage{verbatim}
 \usepackage{hyperref}
-%\usepackage{stmaryrd}
-%\usepackage{multirow}
 
 \hypersetup{
     bookmarks=true,         % show bookmarks bar?
@@ -30,60 +28,25 @@
 
 \begin{document}
 {\qquad \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\}
-%{1 \\2 \\3 \\4 \\5 \\6 \\7 \\8\\ 9\\ }
 
-
-
-% \newpage
 %%%%%%%%%%___AREAS OF INTEREST____%%%%%%%%
-
-
 \colorbox{titleColor}{\parbox{6.5in}{\textbf{AREAS OF INTEREST}}}
 
- %\begin{tabular}{p{1.5in}p{2in}p{2.5in}}
-%$\bullet$ Digital VLSI Design & $\bullet$ CMOS Analog VLSI Design & $\bullet$ Mixed-Signal Design\\
-%$\bullet$ HDL & $\bullet$ System Design & $\bullet$ Testing \& Verification of VLSI circuits\\
-%$\bullet$ VLSI Design LAB & $\bullet$ Physical Electronics & $\bullet$ VLSI Technology
-%
-%\end{tabular}
-
  \begin{tabular}{p{3.5in}p{5in}p{3.5in}}
-% $\circ$ Distributed Generation and Microgrids                                     &$\circ$ Computer Aided Power System Analysis \\
-% $\circ$ Restructured Power Systems                                                &$\circ$ Power System Dynamics and Control  \\
-% $\circ$ Non conventional Energy Sources
     $\circ$ Communication Systems        &$\circ$ Digital Signal Processing \\
     $\circ$ Information Theory       	  &$\circ$ Wireless Communication \\
-    $\circ$ Error Correcting Codes	  &$\circ$ Software Defined Radio \\
-%     $\circ$ Distributed Generation        &$\circ$ Microgrids                       &$\circ$ Smartgrids \\
-%     $\circ$ Power System Protection       &$\circ$ Power System Dynamics            &$\circ$ Renewable Energy\\
-%     $\circ$ Energy Storage                &$\circ$ PHEV grid integration            &$\circ$ Demand Response\\
+    $\circ$ Error Correcting Codes	  &$\circ$ Software Defined Radio
   \end{tabular}
-
-
-%  \colorbox{titleColor}{\parbox{6.5in}{\textbf{AREAS OF INTEREST}}}
-%  \begin{itemize}
-%   \setlength{\itemsep}{1pt}
-%   \item {{Distributed Generation}}
-%   \item {{Microgrids}}
-%   \item {{Smartgrids}}
-%   \item {{Power System Protection}}
-%   \item {{Power System Dynamics}}
-%   \item {{Renewable Energy}}
-%  \end{itemize}
-
-
 
 %%%%%%%%%%___TECHNICAL SKILLS____%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{TECHNICAL SKILLS}}}
+ 
  \begin{itemize}
  \setlength{\itemsep}{1pt}
  \item \textbf{{Operating Systems:}} Linux, Windows.
  \item \textbf{{Softwares Skills:}} GNU Radio, Scipy, Scilab and \LaTeX
  \item \textbf{{Programming Skills:}} C, C++ and Python
  \item \textbf{{Hardware Platforms:}} USRP, RTL SDR
-%  \item \textbf{{Power System Softwares:}} PS-CAD, PSS/E, MI POWER.
-%  \item \textbf{{Other tools / Softwares:}} MATLAB, SCILAB, AutoCAD, AutoCAD-Electrical, P-SPICE, SEQUEL.
-%  \item \textbf{{Programming :}} C, Assembly Language (8051, 8085 \& TMS320-VC33).
  \end{itemize}
 
 %%%%%%%%%%% ____WORK EXPERIENCE___ %%%%%%%%%%%
@@ -91,24 +54,19 @@
 
  \begin{itemize}
  \setlength{\itemsep}{1pt}
- \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}
- 
+ \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}\\ 
  $\circ$ Obtained training on various functional units like boiler, turbain, water-treatment etc in a powerplant.\\
  $\circ$ Exposure to supercritical thermal powerplant.
- \item \textbf{Senior Engineer ( C \& I ), Adani Power Limited}  \textbf \emph{(January 2011-July 2011)}
- 
+ \item \textbf{Senior Engineer ( C \& I ), Adani Power Limited}  \textbf \emph{(January 2011-July 2011)}\\
  $\circ$ Working experience on DCS, PLC and SCADA systems \\
- $\circ$ Responsible for maintaining working and maintenance of C \& I equipments in the powerplant \\
-
+ $\circ$ Responsible for maintaining working and maintenance of C \& I equipments in the powerplant
 \end{itemize}
-
 
 %%%%%%%%%%% ____PROJECTS AND SEMINARS___ %%%%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{PROJECTS AND SEMINARS}}}
 
  \begin{itemize}
  \setlength{\itemsep}{1pt}
- 
  \item \textbf{Google Summer of Code, 2013:} \textbf{LDPC codes and more FEC in GNU Radio}  \textbf \emph{(June 2013-Present)}\\
         {\textbf{Mentor} - Dr.-Ing. Jens Elsner, CEL, KIT.   }          %\qquad \textbf{Software Used}: MATLAB}
 
@@ -133,33 +91,42 @@ $\circ$ Belief propogation decoder and back-substitution encoder blocks are deve
 
 $\circ$ Challenge is to develop a transmitter and receiver, for two scenarios. \\
 $\circ$ A pair of nodes competing against another to communicate a file in shortest time to be designed. \\
-$\circ$ A pair of nodes cooperating with two other pairs so that all the pairs communicate the file in shortest time to be designed. \\
-$\circ$ Single-handedly pushed the team through wild-card tournament, competing against teams from top universities and industries
+$\circ$ A pair of nodes cooperating with two other pairs to be designed. \\
+$\circ$ All the pairs to use same the same 5MHz frequency band. \\
+$\circ$ Single-handedly pushed the team through wild-card tournament. \\
+$\circ$ In the wild-card tournament out team surpassed teams from top universities and industries.
 
  \item \textbf{M.Tech. Seminar:} \textbf{Resource allocation in Wireless Networks}  \textbf \emph{(Nov. 2011)}\\
-        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.   }          %\qquad \textbf{Software Used}: MATLAB}
-
+        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.   }
+        
       $\circ$ We studied various power allocation schemes in a wireless multiple access channel. \\
-      $\circ$ Optimal power allocation under information theoretic setup was studied.
+      $\circ$ Schemes achieving rate tuples under information theoretic setup were studied.
        
  \item \textbf{DSP Course Project:} \textbf{Design of Digital Filters} \textbf \emph{Nov. 2011}\\
 	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
-	The project involved designing bandpass and bandstop digial filters in python.
+	
+	$\circ$ Designed FIR and IIR filters. \\
+	$\circ$ Designed filters under band-stop, band-pass and low-pass responses. \\
+	$\circ$ Filters were designed under chebyschev and buttorworth approximations.
 	
  \item \textbf{DSP Course Project:} \textbf{Localization of audio source} \textbf \emph{Nov. 2011}\\
 	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
-	The project involved developing codes for locating an audio source from the delay between signal captured from 
-	mics kept at a distance.
+	
+	$\circ$ The goal of this project was to design a system to locate an audio source. \\
+	$\circ$ The delay between audio signals captured from two mics is used to locate audio source.
 
   \item \textbf{{B. Tech. Main Project}: Study of Orthogonal Frequency Division Multiplexing}  \textbf \emph{(Jan. - June 2010)}\\
         {\textbf{Guide} - Prof. P Harikrishna Prasad, NIT, Warangal. }
-
-This goal of the project was to study OFDM systems and implement the same in matlab.
+        
+$circ$ The goal of the project was to study OFDM systems 
+$circ$ Matlab simulation of an OFDM system was done as part of this project.
 
   \item \textbf{Industrial Training:} \textbf{BSNL Kerala Circle}  \textbf \emph{(May 2008 - June 2008)}        
 
-  Various aspects of GSM Architecture were studied. Specifically, training on OMC Radio, OMC Switch, Radio Planning and BSS were 
-  obtained
+  $circ$ Various aspects of GSM Architecture were studied. 
+  $circ$ Training on OMC Radio, OMC Switch, Radio Planning and BSS were obtained.
+  $circ$ RAN drive tests were done.
+  $circ$ Realtime traffic analysis of telecome networks were conducted.
 
  \end{itemize}
 
@@ -183,14 +150,15 @@ This goal of the project was to study OFDM systems and implement the same in mat
   \end{itemize}
 
 %%%%%%%%%%___POSITION OF RESPONSIBILITY___%%%%%%%%%%%
- \colorbox{titleColor}{\parbox{6.5in}{\textbf{POSITION OF RESPONSIBILITY}}}
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{POSITIONS OF RESPONSIBILITY}}}
 
  \begin{itemize}
  \setlength{\itemsep}{1pt}
  \item \textbf{System Administrator in WEL} \textbf \emph{(July 2011-Present)} \\
-Wadhwani Electronics Lab is one of the largest lab in IIT Bombay, with more than a hundred computers and about 
-four server grade machines. The duties of the system administrator involves configuring and maintaining the
-computers and the servers.
+$\circ$ Wadhwani Electronics Lab is one of the largest lab in IIT Bombay. \\
+$\circ$ WEL has more than a hundred computers and about four server grade machines. \\ 
+$\circ$ The duties of the system administrator involves configuring and maintaining the computers and the servers. \\
+$\circ$ Configured and maitained web server, ftp server samba server and dhcp server.
 
 \item \textbf{C \& I Shift In-Charge, Adani Power Ltd} \textbf \emph{(July 2011-Present)} \\
 When working as a senior engineer at Adani Power, I was entrusted with the duty of Shift In-Charge of two 330 MW units. In that position
@@ -199,7 +167,6 @@ I was responsible for ensuring smooth working of all control and instrumentation
 \item \textbf{School Captain, JNV Malampuzha} \textbf \emph{(May 2003 - March 2004)} \\
 The school captain is responsible for maintaining the discipline and decorum in the school.
  \end{itemize}
-
 
 %%%%%%%%%%___HOBBY___%%%%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{HOBBIES}}}
