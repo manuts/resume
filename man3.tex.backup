@@ -1,0 +1,149 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{anysize}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=0.6in, right=0.6in, top=0.6in, bottom=0.75in, includefoot, headheight=13.6pt]{geometry}
+\usepackage{color,graphicx}
+\usepackage{verbatim}
+\usepackage{hyperref}
+
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat's bookmarks
+    pdftoolbar=true,        % show Acrobat's toolbar?
+    pdfmenubar=true,        % show Acrobat's menu?
+    pdffitwindow=true,      % page fit to window when opened
+    pdftitle={Resume},    % title
+    pdfauthor={MANU T S},     % author
+    pdfsubject={Resume for placements},   % subject of the document
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=magenta,        % color of internal links
+    citecolor=blue,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=cyan           % color of external links
+}
+
+\definecolor{titleColor}{rgb}{0.85, 0.85, 0.85}
+
+\begin{document}
+{\qquad \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\}
+
+%%%%%%%%%%% ____WORK EXPERIENCE___ %%%%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{WORK EXPERIENCE}}}
+
+ \begin{itemize}
+ \setlength{\itemsep}{1pt}
+ \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}
+ \item \textbf{Senior Engineer ( C \& I ), Adani Power Limited}  \textbf \emph{(January 2011-July 2011)}
+ 
+ As an engineer in Control and Instrumentation department at Adani Power Limited my responsibilities were to ensure proper
+ working and maintenance of the C \& I equipments at the powerplant.
+ 
+ \end{itemize}
+ 
+ %%%%%%%%%%___ACHIEVEMENTS____%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{ACHIEVEMENTS}}}
+
+ \begin{itemize}
+  \item Our team secured a spot in the finals of \textbf{DARPA Spectrum Challenge}.
+ \item Best outgoing student of the year 2004 in JNV Malampuzha.
+  \end{itemize}
+  
+%%%%%%%%%%___POSITION OF RESPONSIBILITY___%%%%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{POSITION OF RESPONSIBILITY}}}
+
+ \begin{itemize}
+ \setlength{\itemsep}{1pt}
+ \item \textbf{System Administrator in WEL} \textbf \emph{(July 2011-Present)} \\
+Wadhwani Electronics Lab is one of the largest lab in IIT Bombay, with more than a hundred computers and about 
+four server grade machines. The duties of the system administrator involves configuring and maintaining the
+computers and the servers.
+\item \textbf{School Captain, JNV Malampuzha} \textbf \emph{(May 2003 - March 2004)} \\
+The school captain is responsible for maintaining the discipline and decorum in the school.
+ \end{itemize}
+ 
+ %%%%%%%%%%___HOBBY___%%%%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{HOBBIES}}}
+
+  \begin{itemize}
+ \setlength{\itemsep}{1pt}
+    \item Reading, music and movies.
+  \end{itemize}
+  
+%%%%%%%%%%___TECHNICAL SKILLS____%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{TECHNICAL SKILLS}}}
+ 
+ \begin{itemize}
+ \setlength{\itemsep}{1pt}
+  \item \textbf{{Softwares Skills:}} GNU Radio
+ \item \textbf{{Programming Skills:}} C, C++, Python
+ \item \textbf{{Hardware Platforms:}} USRP, RTL SDR
+ \end{itemize}
+ 
+ %%%%%%%%%%% ____PROJECTS AND SEMINARS___ %%%%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{PROJECTS AND SEMINARS}}}
+
+ \begin{itemize}
+ \setlength{\itemsep}{1pt}
+ 
+  \item \textbf{M.Tech. Project:} \textbf{Application of LDPC codes to Multiuser Communications} \textbf \emph{(July 2013-Present)} \\
+        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.}            %\qquad \textbf{Software Used}: MATLAB}
+
+% $\circ$ The project is done with sponsorship from Crompton Greeves. \\
+% $\circ$ The project aims to apply LDPC codes to multiuser communicaiton scenario. \\
+% $\circ$ A load shedding scheme using VOLL and is being developed for maintaining the load generation balance in the island. \\
+% $\circ$ A power control strategy for seamless transition from grid connected to islanded mode of operation is being developed. \\
+LDPC codes are a class of linear error correcting codes characterized by a sparse parity check matrices. 
+We study the current LDPC encoding and decoding algorithms and extend them to multiuser scenario.
+GNU Radio blocks for encoder and decoder are developed.
+
+ \item \textbf{Google Summer of Code, 2013:} \textbf{LDPC codes and more FEC in GNU Radio}  \textbf \emph{(June 2013-Present)}\\
+        {\textbf{Mentor} - Dr.-Ing. Jens Elsner, CEL, KIT.   }          %\qquad \textbf{Software Used}: MATLAB}
+
+        This project aims to develop generic encoders and decoders for LDPC Codes and other FEC schemes currently not avaialable in
+        GNU Radio. GNU Radio is an open-source software defined radio platform. Various algorithms for obtaining LDPC Codes are 
+        also implemented.
+        
+\item \textbf{DARPA Spectrum Challenge:} \textbf{Developing Communication system in competing and cooperating scenario}
+\textbf \emph{(March. 2013)}\\
+The challenge is to develop a pair of nodes consisting of a transmitter and receiver, in two scenarios, one competing with
+another pair and the other cooperating with three other pairs.
+
+ \item \textbf{M.Tech. Seminar:} \textbf{Resource allocation in Wireless Networks}  \textbf \emph{(Nov. 2011)}\\
+        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.   }          %\qquad \textbf{Software Used}: MATLAB}
+
+       We studied various power allocation schemes in a wireless network in an Information Theoretic setup
+       
+ \item \textbf{DSP Course Project:} \textbf{Design of Digital Filters} \textbf \emph{Nov. 2011}\\
+	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
+	The project involved designing bandpass and bandstop digial filters in python.
+	
+ \item \textbf{DSP Course Project:} \textbf{Localization of audio source} \textbf \emph{Nov. 2011}\\
+	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
+	The project involved developing codes for locating an audio source from the delay between signal captured from 
+	mics kept at a distance.
+
+%  \item \textbf{M. Tech. Seminar:} \textbf{An overview of Smart Grids}  \textbf \emph{(Nov. 2011)}\\
+%         {\textbf{Guide} - Prof. S. A. Khaparde, IIT Bombay.   }          %\qquad \textbf{Software Used}: MATLAB}
+% 
+%        An brief overview of need for smart grid technologies, features, functionalities at different
+% levels, NIST framework of smart grids, pilot projects in India and
+% around the world and challenges in the implementation of smart grids. \\
+
+
+
+  \item \textbf{{B. Tech. Main Project}: Study of Orthogonal Frequency Division Multiplexing}  \textbf \emph{(Jan. - June 2010)}\\
+        {\textbf{Guide} - Prof. P Harikrishna Prasad, NIT, Warangal. }
+
+This goal of the project was to study OFDM systems and implement the same in matlab.
+
+  \item \textbf{Industrial Training:} \textbf{BSNL Kerala Circle}  \textbf \emph{(May 2008 - June 2008)}        
+  Various aspects of GSM Architecture were studied. Specifically, training on OMC Radio, OMC Switch, Radio Planning and BSS were 
+  obtained
+
+ \end{itemize}
+
+
+
+\end{document}
