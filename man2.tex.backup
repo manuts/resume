@@ -92,11 +92,13 @@
  \begin{itemize}
  \setlength{\itemsep}{1pt}
  \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}
+ 
+ $\circ$ Obtained training on various functional units like boiler, turbain, water-treatment etc in a powerplant.\\
+ $\circ$ Exposure to supercritical thermal powerplant.
  \item \textbf{Senior Engineer ( C \& I ), Adani Power Limited}  \textbf \emph{(January 2011-July 2011)}
  
  $\circ$ Working experience on DCS, PLC and SCADA systems \\
  $\circ$ Responsible for maintaining working and maintenance of C \& I equipments in the powerplant \\
- $\circ$ Exposure to supercritical thermal powerplant.
 
 \end{itemize}
 
@@ -107,13 +109,6 @@
  \begin{itemize}
  \setlength{\itemsep}{1pt}
  
-  \item \textbf{M.Tech. Project:} \textbf{Application of LDPC codes to Multiuser Communications} \textbf \emph{(July 2013-Present)} \\
-        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.}            %\qquad \textbf{Software Used}: MATLAB}
-        
-$\circ$ LDPC codes are characterized by sparse parity check matrices \\ 
-$\circ$ Aim is to study LDPC encoding and decoding algorithms and extend them to multiuser scenario. \\
-$\circ$ GNU Radio used for development of blocks
-
  \item \textbf{Google Summer of Code, 2013:} \textbf{LDPC codes and more FEC in GNU Radio}  \textbf \emph{(June 2013-Present)}\\
         {\textbf{Mentor} - Dr.-Ing. Jens Elsner, CEL, KIT.   }          %\qquad \textbf{Software Used}: MATLAB}
 
@@ -123,17 +118,29 @@ $\circ$ GNU Radio used for development of blocks
         $\circ$ Algorithms for obtaining LDPC Codes are also implemented. \\
         $\circ$ Block for belief propogation decoder is implemented. \\
         $\circ$ Block for encoding ( back-substitution ) is also implemented. \\
-        $\circ$ Codes are available at \url{https://github.com/manuts/ldpc}
+        $\circ$ Project is open-source and is available at \url{https://github.com/manuts/ldpc}
+
+        \item \textbf{M.Tech. Project:} \textbf{Application of LDPC codes to Multiuser Communications} \textbf \emph{(July 2013-Present)} \\
+        {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.}            %\qquad \textbf{Software Used}: MATLAB}
+        
+$\circ$ LDPC codes are characterized by sparse parity check matrices \\ 
+$\circ$ Aim is to study LDPC encoding and decoding algorithms and extend them to multiuser scenario. \\
+$\circ$ Belief propogation decoder and back-substitution encoder blocks are developed.
+
         
 \item \textbf{DARPA Spectrum Challenge:} \textbf{Developing Communication system in competing and cooperating scenario}
-\textbf \emph{(March. 2013)}\\
-The challenge is to develop a pair of nodes consisting of a transmitter and receiver, in two scenarios, one competing with
-another pair and the other cooperating with three other pairs.
+\textbf \emph{(March. 2013-Present)}
+
+$\circ$ Challenge is to develop a transmitter and receiver, for two scenarios. \\
+$\circ$ A pair of nodes competing against another to communicate a file in shortest time to be designed. \\
+$\circ$ A pair of nodes cooperating with two other pairs so that all the pairs communicate the file in shortest time to be designed. \\
+$\circ$ Single-handedly pushed the team through wild-card tournament, competing against teams from top universities and industries
 
  \item \textbf{M.Tech. Seminar:} \textbf{Resource allocation in Wireless Networks}  \textbf \emph{(Nov. 2011)}\\
         {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.   }          %\qquad \textbf{Software Used}: MATLAB}
 
-       We studied various power allocation schemes in a wireless network in an Information Theoretic setup
+      $\circ$ We studied various power allocation schemes in a wireless multiple access channel. \\
+      $\circ$ Optimal power allocation under information theoretic setup was studied.
        
  \item \textbf{DSP Course Project:} \textbf{Design of Digital Filters} \textbf \emph{Nov. 2011}\\
 	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
@@ -144,56 +151,20 @@ another pair and the other cooperating with three other pairs.
 	The project involved developing codes for locating an audio source from the delay between signal captured from 
 	mics kept at a distance.
 
-%  \item \textbf{M. Tech. Seminar:} \textbf{An overview of Smart Grids}  \textbf \emph{(Nov. 2011)}\\
-%         {\textbf{Guide} - Prof. S. A. Khaparde, IIT Bombay.   }          %\qquad \textbf{Software Used}: MATLAB}
-% 
-%        An brief overview of need for smart grid technologies, features, functionalities at different
-% levels, NIST framework of smart grids, pilot projects in India and
-% around the world and challenges in the implementation of smart grids. \\
-
-
-
   \item \textbf{{B. Tech. Main Project}: Study of Orthogonal Frequency Division Multiplexing}  \textbf \emph{(Jan. - June 2010)}\\
         {\textbf{Guide} - Prof. P Harikrishna Prasad, NIT, Warangal. }
 
 This goal of the project was to study OFDM systems and implement the same in matlab.
 
   \item \textbf{Industrial Training:} \textbf{BSNL Kerala Circle}  \textbf \emph{(May 2008 - June 2008)}        
-  %\qquad \textbf{Software Used}: MATLAB}
 
   Various aspects of GSM Architecture were studied. Specifically, training on OMC Radio, OMC Switch, Radio Planning and BSS were 
   obtained
 
-%  \item \textbf{{B. Tech. Seminar}: Active Harmonic Filters}  \textbf \emph{(Nov. 2009)}\\
-%         {\textbf{Guide} - Asst.Prof. Rajappan Pillai, Government Engineering College, Thrissur. }
-% 
-%  An overview of active power filters used for harmonic mitigation.
-% 
-% 
-% 
-% \item \textbf{{B. Tech. Mini Project}: Mobile Bug}  \textbf\emph{(Jan. -Apr. 2009)}\\
-%         {\textbf{Guide} - Asst.Prof. K. Meenakshi, Government Engineering College, Thrissur. }
-% 
-%  A simple low cost electronic equipment to
-% detect the presence of an active mobile phone in a range of 3 meters.
-
-
  \end{itemize}
-
-
-
-
-
 
 %%%%%%%%%%___COURSE WORKS___%%%%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{COURSE WORK}}}
-
- %\begin{tabular}{p{1.5in}p{2in}p{2.5in}}
-%$\bullet$ Digital VLSI Design & $\bullet$ CMOS Analog VLSI Design & $\bullet$ Mixed-Signal Design\\
-%$\bullet$ HDL & $\bullet$ System Design & $\bullet$ Testing \& Verification of VLSI circuits\\
-%$\bullet$ VLSI Design LAB & $\bullet$ Physical Electronics & $\bullet$ VLSI Technology
-%
-%\end{tabular}
 
  \begin{tabular}{p{3.5in}p{5in}p{3.5in}}
      $\circ$ Communication Systems		&$\circ$ Error Correcting Codes \\
@@ -201,45 +172,7 @@ This goal of the project was to study OFDM systems and implement the same in mat
     $\circ$ Digital Signal Processing		&$\circ$ Wireless Communication \\
     $\circ$ Statistical Signal Analysis	&$\circ$ Applications of Linear Algebra \\
     $\circ$ Markov chains and Queuing Systems	&$\circ$ Optimization Techniques \\
-% $\circ$ Distributed Generation and Microgrids                                     &$\circ$ Computer Aided Power System Analysis \\
-% $\circ$ Restructured Power Systems                                                &$\circ$ Power System Dynamics and Control  \\
-% $\circ$ Non conventional Energy Sources                                           &$\circ$ Power Electronics\\
-% $\circ$ Application of Power Electronics in Power Systems                         &$\circ$ Power Electronics and Power System lab \\
-% $\circ$ Microprocessor Applications in Power Electronics                          &$\circ$ Circuit Simulation in Power Electronics \\
 \end{tabular}
-
-
-
-
-
-
- %%%%%%%%%%___COURSE PROJECTS___%%%%%%%%%%%
-
-%  \colorbox{titleColor}{\parbox{6.5in}{\textbf{COURSE PROJECTS DONE AT IIT BOMBAY}}}
-% \begin{itemize}
-%   \setlength{\itemsep}{1pt}
-% 
-%   \item \textbf{{Price Area Congestion Management}}     \textbf \emph{(Restructured Power Systems)} \\
-%  	Various methods for congestion  management in literature were reviewed. The method of price area congestion management in
-% power markets of Nord Pool and India was studied in detail.The market splitting procedure used by Indian Energy Exchange
-% is described in detail.
-% 
-%   \item \textbf{{Dynamic studies on 2-generator system}}   \textbf \emph{(Power System Dynamics and Control)} \\
-%        Time domain simulation of 2-generator system was done in matlab coding environment by
-% numerically evaluating Dynamic and Algebraic equations of the model. Modelling of
-% disturbances viz three-phase-fault, step change in generation of one of the generators and sudden load
-% change was done.
-% 
-%   \item \textbf{{Simulation of STATCOM for mid-point voltage compensation}}  \textbf \emph{(Application of Power Electronics in Power Systems )} \\
-%       This project was aimed at simulating indirect current control of STATCOM using Direct and indirect voltage control techniques.
-% 
-%   \item \textbf{{Sequence component extraction of unbalanced 3 phase AC quantities using DSP}}  \textbf \emph{(Microprocessor Applications in Power Electronics)} \\
-% 	This project included implementation of the reference frame transformation to extract positive and negative sequence components
-% of a set of unbalanced three phase ac quantities. The project was implemented using TMS320-VC33 DSP board.
-% 
-%  \end{itemize}
-
-
 
 %%%%%%%%%%___ACHIEVEMENTS____%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{ACHIEVEMENTS}}}
@@ -258,6 +191,11 @@ This goal of the project was to study OFDM systems and implement the same in mat
 Wadhwani Electronics Lab is one of the largest lab in IIT Bombay, with more than a hundred computers and about 
 four server grade machines. The duties of the system administrator involves configuring and maintaining the
 computers and the servers.
+
+\item \textbf{C \& I Shift In-Charge, Adani Power Ltd} \textbf \emph{(July 2011-Present)} \\
+When working as a senior engineer at Adani Power, I was entrusted with the duty of Shift In-Charge of two 330 MW units. In that position
+I was responsible for ensuring smooth working of all control and instrumentation equipments in the units.
+
 \item \textbf{School Captain, JNV Malampuzha} \textbf \emph{(May 2003 - March 2004)} \\
 The school captain is responsible for maintaining the discipline and decorum in the school.
  \end{itemize}
