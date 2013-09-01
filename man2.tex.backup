@@ -27,15 +27,18 @@
 \definecolor{titleColor}{rgb}{0.85, 0.85, 0.85}
 
 \begin{document}
-{\qquad \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\}
+{\qquad \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\}
 
 %%%%%%%%%%___AREAS OF INTEREST____%%%%%%%%
 \colorbox{titleColor}{\parbox{6.5in}{\textbf{AREAS OF INTEREST}}}
 
  \begin{tabular}{p{3.5in}p{5in}p{3.5in}}
-    $\circ$ Communication Systems        &$\circ$ Digital Signal Processing \\
-    $\circ$ Information Theory       	  &$\circ$ Wireless Communication \\
-    $\circ$ Error Correcting Codes	  &$\circ$ Software Defined Radio
+    $\circ$ Communication Systems \\
+    $\circ$ Digital Signal Processing \\
+    $\circ$ Information Theory \\
+    $\circ$ Wireless Communication \\
+    $\circ$ Error Correcting Codes \\
+    $\circ$ Software Defined Radio
   \end{tabular}
 
 %%%%%%%%%%___TECHNICAL SKILLS____%%%%%%%%
@@ -46,21 +49,8 @@
  \item \textbf{{Operating Systems:}} Linux, Windows.
  \item \textbf{{Softwares Skills:}} GNU Radio, Scipy, Scilab and \LaTeX
  \item \textbf{{Programming Skills:}} C, C++ and Python
- \item \textbf{{Hardware Platforms:}} USRP, RTL SDR
+ \item \textbf{{Software Defined Radio Platforms:}} USRP, RTL SDR
  \end{itemize}
-
-%%%%%%%%%%% ____WORK EXPERIENCE___ %%%%%%%%%%%
- \colorbox{titleColor}{\parbox{6.5in}{\textbf{WORK EXPERIENCE}}}
-
- \begin{itemize}
- \setlength{\itemsep}{1pt}
- \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}\\ 
- $\circ$ Obtained training on various functional units like boiler, turbain, water-treatment etc in a powerplant.\\
- $\circ$ Exposure to supercritical thermal powerplant.
- \item \textbf{Senior Engineer ( C \& I ), Adani Power Limited}  \textbf \emph{(January 2011-July 2011)}\\
- $\circ$ Working experience on DCS, PLC and SCADA systems \\
- $\circ$ Responsible for maintaining working and maintenance of C \& I equipments in the powerplant
-\end{itemize}
 
 %%%%%%%%%%% ____PROJECTS AND SEMINARS___ %%%%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{PROJECTS AND SEMINARS}}}
@@ -70,63 +60,54 @@
  \item \textbf{Google Summer of Code, 2013:} \textbf{LDPC codes and more FEC in GNU Radio}  \textbf \emph{(June 2013-Present)}\\
         {\textbf{Mentor} - Dr.-Ing. Jens Elsner, CEL, KIT.   }          %\qquad \textbf{Software Used}: MATLAB}
 
-        $\circ$ Aim is to develop generic encoders and decoders for LDPC Codes in GNU Radio. \\
-        $\circ$ Aims to improve encoders and decoders for BCH and RS codes. \\
-        $\circ$ GNU Radio is an open-source software defined radio platform. \\
+        $\circ$ The project is to develop generic encoders and decoders for LDPC Codes in GNU Radio. \\
+        $\circ$ As a part of this project we also improve encoders and decoders for BCH and RS codes. \\
         $\circ$ Algorithms for obtaining LDPC Codes are also implemented. \\
-        $\circ$ Block for belief propogation decoder is implemented. \\
-        $\circ$ Block for encoding ( back-substitution ) is also implemented. \\
+        $\circ$ Block for belief-propagation decoder is implemented. \\
+        $\circ$ Block for back-substitution encoding is implemented. \\
         $\circ$ Project is open-source and is available at \url{https://github.com/manuts/ldpc}
 
         \item \textbf{M.Tech. Project:} \textbf{Application of LDPC codes to Multiuser Communications} \textbf \emph{(July 2013-Present)} \\
         {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.}            %\qquad \textbf{Software Used}: MATLAB}
         
 $\circ$ LDPC codes are characterized by sparse parity check matrices \\ 
-$\circ$ Aim is to study LDPC encoding and decoding algorithms and extend them to multiuser scenario. \\
-$\circ$ Belief propogation decoder and back-substitution encoder blocks are developed.
+$\circ$ The project is to study LDPC encoding and decoding algorithms and extend them to multiuser scenario. \\
+$\circ$ Belief-propagation decoder and back-substitution encoder blocks are developed.
 
         
-\item \textbf{DARPA Spectrum Challenge:} \textbf{Developing Communication system in competing and cooperating scenario}
-\textbf \emph{(March. 2013-Present)}
+\item \textbf{DARPA Spectrum Challenge:} \textbf \emph{(March. 2013-Present)}
 
-$\circ$ Challenge is to develop a transmitter and receiver, for two scenarios. \\
-$\circ$ A pair of nodes competing against another to communicate a file in shortest time to be designed. \\
-$\circ$ A pair of nodes cooperating with two other pairs to be designed. \\
-$\circ$ All the pairs to use same the same 5MHz frequency band. \\
+$\circ$ During the hurdles and wild-card tournament we designed a transmitter-receiver pair, for two scenarios. \\
+$\circ$ A pair of nodes competing against another to communicate a file in shortest time is designed. \\
+$\circ$ A pair of nodes cooperating with two other pairs is designed. \\
+$\circ$ All the pairs use same the same 5MHz frequency band. \\
 $\circ$ Single-handedly pushed the team through wild-card tournament. \\
-$\circ$ In the wild-card tournament out team surpassed teams from top universities and industries.
+$\circ$ In the wild-card tournament our team surpassed teams from top universities and industries.
 
  \item \textbf{M.Tech. Seminar:} \textbf{Resource allocation in Wireless Networks}  \textbf \emph{(Nov. 2011)}\\
         {\textbf{Guide} - Prof. Sibiraj B Pillai, IIT Bombay.   }
-        
-      $\circ$ We studied various power allocation schemes in a wireless multiple access channel. \\
+
+      $\circ$ We studied optimal power allocation in flat-fading multiple access channels. \\
       $\circ$ Schemes achieving rate tuples under information theoretic setup were studied.
-       
- \item \textbf{DSP Course Project:} \textbf{Design of Digital Filters} \textbf \emph{Nov. 2011}\\
+             
+ \item \textbf{DSP Course Project:} \textbf{Design of Digital Filters} \textbf \emph{(Nov. 2011)}\\
 	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
 	
 	$\circ$ Designed FIR and IIR filters. \\
 	$\circ$ Designed filters under band-stop, band-pass and low-pass responses. \\
 	$\circ$ Filters were designed under chebyschev and buttorworth approximations.
 	
- \item \textbf{DSP Course Project:} \textbf{Localization of audio source} \textbf \emph{Nov. 2011}\\
+ \item \textbf{DSP Course Project:} \textbf{Localization of audio source} \textbf \emph{(Nov. 2011)}\\
 	{\textbf{Instructor} - Prof. Vikram M Gadre, IIT Bombay. }
 	
-	$\circ$ The goal of this project was to design a system to locate an audio source. \\
+	$\circ$ In this project we designed a system to locate an audio source. \\
 	$\circ$ The delay between audio signals captured from two mics is used to locate audio source.
 
   \item \textbf{{B. Tech. Main Project}: Study of Orthogonal Frequency Division Multiplexing}  \textbf \emph{(Jan. - June 2010)}\\
         {\textbf{Guide} - Prof. P Harikrishna Prasad, NIT, Warangal. }
         
-$circ$ The goal of the project was to study OFDM systems 
-$circ$ Matlab simulation of an OFDM system was done as part of this project.
-
-  \item \textbf{Industrial Training:} \textbf{BSNL Kerala Circle}  \textbf \emph{(May 2008 - June 2008)}        
-
-  $circ$ Various aspects of GSM Architecture were studied. 
-  $circ$ Training on OMC Radio, OMC Switch, Radio Planning and BSS were obtained.
-  $circ$ RAN drive tests were done.
-  $circ$ Realtime traffic analysis of telecome networks were conducted.
+$\circ$ The goal of the project was to study OFDM systems. \\
+$\circ$ Matlab simulation of an OFDM system was done as part of this project.
 
  \end{itemize}
 
@@ -134,11 +115,16 @@ $circ$ Matlab simulation of an OFDM system was done as part of this project.
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{COURSE WORK}}}
 
  \begin{tabular}{p{3.5in}p{5in}p{3.5in}}
-     $\circ$ Communication Systems		&$\circ$ Error Correcting Codes \\
-    $\circ$ Information Theory			&$\circ$ Digital Message Transmission \\
-    $\circ$ Digital Signal Processing		&$\circ$ Wireless Communication \\
-    $\circ$ Statistical Signal Analysis	&$\circ$ Applications of Linear Algebra \\
-    $\circ$ Markov chains and Queuing Systems	&$\circ$ Optimization Techniques \\
+     $\circ$ Communication Systems \\
+     $\circ$ Error Correcting Codes \\
+    $\circ$ Information Theory \\
+    $\circ$ Digital Message Transmission \\
+    $\circ$ Digital Signal Processing \\
+    $\circ$ Wireless Communication \\
+    $\circ$ Statistical Signal Analysis \\
+    $\circ$ Applications of Linear Algebra \\
+    $\circ$ Markov chains and Queuing System \\
+    $\circ$ Optimization Techniques \\
 \end{tabular}
 
 %%%%%%%%%%___ACHIEVEMENTS____%%%%%%%%
@@ -146,26 +132,40 @@ $circ$ Matlab simulation of an OFDM system was done as part of this project.
 
  \begin{itemize}
   \item Our team secured a spot in the finals of \textbf{DARPA Spectrum Challenge}.
- \item Best outgoing student of the year 2004 in JNV Malampuzha.
+  \item Our team won first prize in Junk-Yard wars in Technozion 2010.
+  \item Best outgoing student of the year 2004 in JNV Malampuzha.
   \end{itemize}
 
-%%%%%%%%%%___POSITION OF RESPONSIBILITY___%%%%%%%%%%%
+%%%%%%%%%%% ____WORK EXPERIENCE___ %%%%%%%%%%%
+ \colorbox{titleColor}{\parbox{6.5in}{\textbf{WORK EXPERIENCE}}}
+
+ \begin{itemize}
+ \setlength{\itemsep}{1pt}
+ \item \textbf{Graduate Engineering Trainee ( C \& I ), Adani Power Limited}  \textbf \emph{(July 2010-January 2011)}\\ 
+ $\circ$ Obtained training on various functional units like boiler, turbine, water-treatment etc in a power plant.\\
+ $\circ$ Exposure to super-critical thermal power plant. \\
+ $\circ$ Obtained two weeks of training on soft-skills during this period.
+ 
+   \item \textbf{Industrial Training:} \textbf{BSNL Kerala Circle}  \textbf \emph{(May 2008 - June 2008)}        
+
+  $\circ$ Various aspects of GSM Architecture were studied. \\
+  $\circ$ Training on OMC Radio, OMC Switch, Radio Planning and BSS were obtained. \\
+  $\circ$ RAN drive tests were done. \\
+  $\circ$ Realtime traffic analysis of telecom networks were conducted.
+
+\end{itemize}
+
+  %%%%%%%%%%___POSITION OF RESPONSIBILITY___%%%%%%%%%%%
  \colorbox{titleColor}{\parbox{6.5in}{\textbf{POSITIONS OF RESPONSIBILITY}}}
 
  \begin{itemize}
  \setlength{\itemsep}{1pt}
- \item \textbf{System Administrator in WEL} \textbf \emph{(July 2011-Present)} \\
-$\circ$ Wadhwani Electronics Lab is one of the largest lab in IIT Bombay. \\
+ \item \textbf{Teaching Assistant} \\
+$\circ$ EE-318, Electronic Design Lab - I. \\
 $\circ$ WEL has more than a hundred computers and about four server grade machines. \\ 
 $\circ$ The duties of the system administrator involves configuring and maintaining the computers and the servers. \\
-$\circ$ Configured and maitained web server, ftp server samba server and dhcp server.
-
-\item \textbf{C \& I Shift In-Charge, Adani Power Ltd} \textbf \emph{(July 2011-Present)} \\
-When working as a senior engineer at Adani Power, I was entrusted with the duty of Shift In-Charge of two 330 MW units. In that position
-I was responsible for ensuring smooth working of all control and instrumentation equipments in the units.
-
-\item \textbf{School Captain, JNV Malampuzha} \textbf \emph{(May 2003 - March 2004)} \\
-The school captain is responsible for maintaining the discipline and decorum in the school.
+$\circ$ Configured and maintained web server, FTP server, samba server and dhcp server. \\
+$\circ$ Wrote a bash script to automate user maintenance for the lab users.
  \end{itemize}
 
 %%%%%%%%%%___HOBBY___%%%%%%%%%%%
@@ -173,7 +173,7 @@ The school captain is responsible for maintaining the discipline and decorum in 
 
   \begin{itemize}
  \setlength{\itemsep}{1pt}
-    \item Reading, music and movies.
+    \item Reading, coding, music and movies.
   \end{itemize}
 
 

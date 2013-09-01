@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.2.12)  31 AUG 2013 19:06
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.2.12)  1 SEP 2013 17:12
 entering extended mode
  %&-line parsing enabled.
 **man1.tex
@@ -417,21 +417,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
 LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
@@ -441,15 +426,18 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+Overfull \hbox (142.51196pt too wide) in paragraph at lines 35--40
+[][] 
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
 
-Overfull \hbox (142.51196pt too wide) in paragraph at lines 83--90
+Overfull \hbox (142.51196pt too wide) in paragraph at lines 85--92
 [][] 
  []
 
@@ -459,7 +447,7 @@ Overfull \hbox (142.51196pt too wide) in paragraph at lines 83--90
 Here is how much of TeX's memory you used:
  6697 strings out of 495061
  89655 string characters out of 1182621
- 165933 words of memory out of 3000000
+ 164933 words of memory out of 3000000
  9796 multiletter control sequences out of 15000+50000
  6006 words of font info for 24 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -469,7 +457,7 @@ texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/typ
 e1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb>
-Output written on man1.pdf (1 page, 62732 bytes).
+Output written on man1.pdf (1 page, 62945 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
